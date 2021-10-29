@@ -9,10 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "@reach/dialog": "^0.16.2",
+    "@reduxjs/toolkit": "^1.6.2",
+    "@s-one-finance/default-token-list": "^1.1.3",
+    "@s-one-finance/sdk-core": "^1.4.7",
+    "@web3-react/core": "^6.1.9",
+    "apollo-client": "^2.6.10",
+    "dayjs": "^1.10.7",
     "ethers": "^5.5.1",
+    "i18next": "^21.3.3",
+    "i18next-browser-languagedetector": "^6.1.2",
+    "i18next-xhr-backend": "^3.2.2",
+    "jazzicon": "^1.5.0",
     "next": "12.0.1",
+    "polished": "^4.1.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "rebass": "^4.0.7",
     "sweetalert2": "^11.1.9"
   },
   "devDependencies": {
